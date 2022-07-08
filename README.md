@@ -10,4 +10,4 @@ Expert in PHP Laravel .Asp.NET core MVC and C# Winform  along with different dat
 
 ## Software skills include:
  #### Databases: MySQL, Oracle, Postgress, MariaDB
- #### Languages: PHP Laravel, Asp.NET Core MVC & C# Winform.
+ #### Languages: PHP/Laravel, Asp.NET Core MVC & C# Winform.
