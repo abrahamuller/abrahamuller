@@ -11,4 +11,4 @@ Expert in JavaScript, PHP/Laravel, TALL stack, Vuejs & Vite, Laravel ecosystem a
 
 ## Software skills include:
  #### Databases: MySQL, Oracle, Postgress, MariaDB
- #### Languages: JavaScript, PHP/Laravel, Alpinejs, Livewire, Vuejs & Nextjs.
+ #### Tech: JavaScript, PHP/Laravel, Alpinejs, Livewire, Vuejs & Nextjs.
