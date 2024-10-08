@@ -1,6 +1,6 @@
 ### Hi👋
-I'm Abraham Muller
-# Senior software engineer within 7 years experirnces.
+#I'm Abraham Muller
+## Senior software engineer within 7 years experirnces.
 
 ## Personally
 Skilled, motivated, focused, and quick-learner senior software engineer, Strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. 
