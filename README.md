@@ -1,14 +1,14 @@
-### Hi I'm Abraham Muller 👋
-# Senior software engineer 
-![Design and Development](https://github.com/abrahamuller/abrahamuller/blob/main/banneer%20for%20social%20media%20all.png)
+### Hi👋
+I'm Abraham Muller
+# Senior software engineer within 7 years experirnces.
 
 ## Personally
-Skilled, motivated, focused, and quick-learner senior software engineer with 5+ years of software development. Strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. 
+Skilled, motivated, focused, and quick-learner senior software engineer, Strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. 
 
 ## Expertise field 
-Expert in JavaScript, PHP/Laravel, TALL stack, Vuejs & Vite, Laravel ecosystem along with different database analysis and design. Skilled in developing requirements specifications, and architectural design of system development. Strong written and verbal communications. eager to be challenged to grow and further improve my IT skills.
+Expert in JavaScript, PHP/Laravel, TALL stack, Vuejs & Vite, Laravel ecosystem and react ecosystem along with different database analysis and design. Skilled in developing requirements specifications, and architectural design of system development. Strong written and verbal communications. eager to be challenged to grow and further improve my IT skills.
 
 
 ## Software skills include:
- #### Databases: MySQL, Oracle, Postgress, MariaDB
- #### Tech: JavaScript, PHP/Laravel, Reactjs Alpinejs, Livewire, Vuejs & Nextjs.
+ #### Databases: MySQL, Oracle, Postgress, MariaDB and SqlLite
+ #### Tech: JavaScript, PHP/Laravel, Reactjs Alpinejs, Livewire, Vuejs, Vitejs & Reactjs.
